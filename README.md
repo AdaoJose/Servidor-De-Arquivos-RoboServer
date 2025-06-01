@@ -40,4 +40,3 @@ Clique no link abaixo para baixar o instalador do RoboServer e começar a usar:
 
 ---
 
-Se quiser, posso gerar uma versão HTML ou PDF dessa promoção para compartilhamento em sites, redes sociais ou via e-mail. Basta clicar em [versão HTML](f) ou [versão PDF](f).
