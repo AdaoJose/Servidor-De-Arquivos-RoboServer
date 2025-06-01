@@ -1,5 +1,3 @@
-Claro! Aqui está um modelo de **arquivo de divulgação promocional** para seu aplicativo **RoboServer – Servidor de Arquivos**, com um texto atrativo, destaque das funcionalidades e um link direto para download do executável hospedado no GitHub:
-
 ---
 
 ### 🔄 **RoboServer – Compartilhe Arquivos com Facilidade!**
